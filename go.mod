@@ -1,4 +1,4 @@
-module github.com/icedream/go-bsdiff
+module github.com/avrilkogo/bsdiff
 
 require (
 	github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc // indirect
@@ -9,3 +9,5 @@ require (
 	github.com/stretchr/testify v1.2.2 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 )
+
+go 1.13
